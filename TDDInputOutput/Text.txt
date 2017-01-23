@@ -1,0 +1,4 @@
+hous oues, 15, 15, 15, 15;
+hous oues, 38, 89, 46, 46;
+hous oues, 50, 20, 100, 100;
+houssame ooueslati, 15, 15, 32000, 32000;

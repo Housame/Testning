@@ -1,0 +1,7 @@
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\bin\Debug\UniTest.dll
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\bin\Debug\UniTest.pdb
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\obj\Debug\UniTest.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\obj\Debug\UniTest.dll
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\UniTest\obj\Debug\UniTest.pdb

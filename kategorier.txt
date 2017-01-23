@@ -1,0 +1,27 @@
+Functional:
+System testing: Testar funktionalitet.
+End-To-End Testing: Testar hela applikationen, hela systemet från A-Z
+Sanity check: för att se om programmet är redo för ytterligare test. Basfunktionalitet.
+Performance testing
+Load test
+Stresstest
+Regression testing
+Enhetstestning, Unit-testing
+Integration testing
+
+
+Non-Functional:
+End-To-End Testing: Testar hela applikationen, hela systemet från A-Z
+Usablity testing: Användargränssnittet, också utifrån målgrupp.
+Sanity check:för att se om programmet är redo för ytterligare test. Basfunktionalitet.
+Performance testing
+Load test
+Stresstest
+Security testing
+Regression testing
+Compatibility test
+Acceptance testing 
+
+
+
+

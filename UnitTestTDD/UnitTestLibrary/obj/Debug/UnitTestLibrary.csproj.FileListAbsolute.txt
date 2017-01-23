@@ -1,0 +1,5 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\UnitTestTDD\UnitTestLibrary\bin\Debug\UnitTestLibrary.dll
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\UnitTestTDD\UnitTestLibrary\bin\Debug\UnitTestLibrary.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\UnitTestTDD\UnitTestLibrary\obj\Debug\UnitTestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\UnitTestTDD\UnitTestLibrary\obj\Debug\UnitTestLibrary.dll
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\UnitTestTDD\UnitTestLibrary\obj\Debug\UnitTestLibrary.pdb

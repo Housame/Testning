@@ -1,0 +1,6 @@
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\bin\Debug\HousameOueslatiLabb1.exe.config
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\bin\Debug\HousameOueslatiLabb1.exe
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\bin\Debug\HousameOueslatiLabb1.pdb
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\obj\Debug\HousameOueslatiLabb1.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\obj\Debug\HousameOueslatiLabb1.exe
+C:\Users\Housame\Documents\Testning av programvara\HousameOueslatiLabb1\HousameOueslatiLabb1\obj\Debug\HousameOueslatiLabb1.pdb

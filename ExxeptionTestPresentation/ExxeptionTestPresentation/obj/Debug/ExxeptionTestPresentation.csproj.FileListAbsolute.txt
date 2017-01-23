@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\bin\Debug\ExxeptionTestPresentation.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\obj\Debug\ExxeptionTestPresentation.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\bin\Debug\ExxeptionTestPresentation.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\bin\Debug\ExxeptionTestPresentation.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\obj\Debug\ExxeptionTestPresentation.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\ExxeptionTestPresentation\ExxeptionTestPresentation\obj\Debug\ExxeptionTestPresentation.pdb

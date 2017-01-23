@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\bin\Debug\BankTDD.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\bin\Debug\BankTDD.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\bin\Debug\BankTDD.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\obj\Debug\BankTDD.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\obj\Debug\BankTDD.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\BankTDD\BankTDD\obj\Debug\BankTDD.pdb

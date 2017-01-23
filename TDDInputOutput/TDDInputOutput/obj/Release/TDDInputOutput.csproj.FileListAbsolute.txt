@@ -1,0 +1,5 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Release\TDDInputOutput.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Release\TDDInputOutput.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Release\TDDInputOutput.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\obj\Release\TDDInputOutput.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\obj\Release\TDDInputOutput.pdb

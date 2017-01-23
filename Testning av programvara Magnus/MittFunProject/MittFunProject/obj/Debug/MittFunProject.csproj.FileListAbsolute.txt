@@ -1,0 +1,9 @@
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\bin\Debug\MittFunProject.exe.config
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\bin\Debug\MittFunProject.exe
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\bin\Debug\MittFunProject.pdb
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\obj\Debug\MittFunProject.csprojResolveAssemblyReference.cache
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\obj\Debug\MittFunProject.exe
+C:\Users\Housame\Documents\Testning av programvara\MittFunProject\MittFunProject\obj\Debug\MittFunProject.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Testning av programvara Magnus\MittFunProject\MittFunProject\bin\Debug\MittFunProject.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Testning av programvara Magnus\MittFunProject\MittFunProject\obj\Debug\MittFunProject.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Testning av programvara Magnus\MittFunProject\MittFunProject\obj\Debug\MittFunProject.pdb

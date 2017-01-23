@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Debug\TDDInputOutput.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Debug\TDDInputOutput.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\bin\Debug\TDDInputOutput.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\obj\Debug\TDDInputOutput.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\obj\Debug\TDDInputOutput.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\TDDInputOutput\TDDInputOutput\obj\Debug\TDDInputOutput.pdb

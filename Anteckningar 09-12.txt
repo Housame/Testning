@@ -1,0 +1,69 @@
+simon.lernia@gmail.com
+9/12
+ 
+Bugg - fel där programmet kraschar.
+Defekt  - ett fel i färdig version. Semantiskt (logiskt) fel.
+ 
+Testekniker.
+Automatiskt eller manuellt:
+- Manuell testare kollar manuellt..vilka funktioner finns, är viktiga osv?
+- Automatiskt görs av en dator, kan kontrollera saker på tid, flera gånger etc.
+Är det lönsamt att automatisera?
+Ja i regel vid större projekt.
+ 
+Funktionell testning:
+Att testa en produkt genom att göra det som den är tänkt att göra, på rätt sätt.
+Baseras på input/output.
+ 
+Nonfunctional testing:
+Tetsar kvalitet nätverkshastigheter.. Handlar inte om funktionalitet utan mer design och kvalitet.
+ 
+Systemtestning:
+Testar funktionalitet.
+ 
+End-to-end:
+Testar hela applikationen, hela systemet i real world scenario.
+ 
+Usability testing:
+Små knappar, liten text osv? Användargränssnittet, också utifrån målgrupp.
+ 
+Sanity check:
+Snabbt test av ett program, i slutstadiet för att se om programmet är redo för ytterligare test. Basfunktionalitet.
+ 
+Performance testing:
+Närverkshastigher och användarvolymer. Prestandatest på funktioner som systemet har.
+ 
+Load test:
+Blandas ihop med performancetest. Testar hur och när ett system beter sig konstigt, hur agerar ett system under dåliga förhållanden.
+ 
+Stresstest:
+Belastar systemet utöver kravspecifikation.
+ 
+Security testing:
+Kollar säkerhet, hur lätt/svårt att hacka? Krav på lösenord etc.
+ 
+Regression testing:
+Test inför efterföljande version. Att tidigare funktionalitet upprätthålls.
+ 
+Enhetstestning, Unit-testing:
+Bryter ner program i funktioner och testar dem. Görs ofta av programmerare snarare än testare.
+ 
+Black box testing:
+"blint testande". Tillgång till programmet men inte källkoden. Funktionell testning, ser vad programmet tar in och spottar ut. Beteende.
+ 
+White box testing:
+Liknande black box men med tillgång till källkod, klasser osv. Kan testa på unit-nivå.
+ 
+Compatibility test:
+Fungerar produkten för olika hårdvaror, os, kompabilitet på olika plattformar.
+ 
+Acceptance testing:
+I slutskedet av utveckling. Kund får gå igenom produkten och se så den uppfyller kravspec.
+ 
+Alpha testing:
+Test under alfaperioden av versionen, alltså i slutskedet. I regel in house test internt.
+Beta testing:
+Efter alfa, i regel period av testning av slutanvändare. Vissa struntar i beta och släpper produkt innan betatest.
+ 
+Integration testing:
+Testa grupper av komponenter, se att allt hänger ihop genom att anropa moduler. Kolla så att viss indata ger riktig output. Ofta i samband med sammanslagning av system, se så de samverkar och hänger ihop.

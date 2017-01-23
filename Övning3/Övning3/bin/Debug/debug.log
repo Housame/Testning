@@ -1,0 +1,6 @@
+[1216/145520:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[1216/145520:ERROR:exception_snapshot_win.cc(87)] thread ID 13192 not found in process
+[1216/145520:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1216/151953:ERROR:process_reader_win.cc(114)] NtOpenThread: {Åtkomst nekad} En process har begärt åtkomst till ett objekt, men har inte de rättigheter som krävs.  (0xc0000022)
+[1216/151953:ERROR:exception_snapshot_win.cc(87)] thread ID 15712 not found in process
+[1216/151953:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed

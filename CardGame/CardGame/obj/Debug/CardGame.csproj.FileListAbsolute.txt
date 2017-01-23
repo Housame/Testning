@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\obj\Debug\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\obj\Debug\CardGame.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\CardGame\CardGame\obj\Debug\CardGame.pdb

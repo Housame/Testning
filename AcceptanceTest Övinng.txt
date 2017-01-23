@@ -1,0 +1,20 @@
+1. köpa varor
+
+2. Lägg till varukorg och fortsätta handla
+
+3. Filter för sökning (åldergräns, med/utan batterie mm...)
+
+4. visar en annonsblad, kampanjer, reavaror längst upp(anpassas 
+efter kunden senaste köp om man är inloggad)
+
+5. Buy-Guide (guide för föräldrar för att visa vilka leksaker är tillämpliga för sina barn tex. leksaker för barn med epilepsi, barn med tvångsyndrom, allergiframkallande  vilka pussel som passar bäst), kan dyka upp när man ska köpa för inloggade kunder som har redan lagt till såna krav i sina önskemål.
+
+6. ge förslag på sökningar när man stavar fel en leksak tex actionNan istället för ActionMan.
+
+7. Kunna visa relaterade leksaker/tillbehör när man lägger en leksak i varukorgen.
+
+8. fler alternativ för mottagande av vara efter beställning (post, hämta från den närmaste butik utifrån din plats)
+
+9. Fint utseende, logo på vänstra sidan
+
+10. Ett meny längst upp som har alla ovannämnda funktioner

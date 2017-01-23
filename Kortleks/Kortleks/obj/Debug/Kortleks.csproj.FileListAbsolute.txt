@@ -1,0 +1,6 @@
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\bin\Debug\Kortleks.exe.config
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\bin\Debug\Kortleks.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\bin\Debug\Kortleks.pdb
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\obj\Debug\Kortleks.csprojResolveAssemblyReference.cache
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\obj\Debug\Kortleks.exe
+C:\Users\acer pc\Desktop\Plugget\Testning av programvara\Kortleks\Kortleks\obj\Debug\Kortleks.pdb
